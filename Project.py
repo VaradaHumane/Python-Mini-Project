@@ -1,7 +1,6 @@
 import tkinter as tk
 import random
 
-# Constants
 WIDTH = 400
 HEIGHT = 400
 DELAY = 200
